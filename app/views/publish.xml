@@ -1,0 +1,8 @@
+<Alloy>
+	<Window id="publishWindow" class="container">
+		<ImageView id="deADobleFoto" />
+		<Button id="shareFacebookButton" class="shareButton"> </Button>
+		<Button id="shareTwitterButton"  class="shareButton"> </Button>
+		<Button id="shareInstagramButton"  class="shareButton"> </Button>
+	</Window>
+</Alloy>

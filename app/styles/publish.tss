@@ -1,0 +1,32 @@
+"#publishWindow": {
+	layout: 'vertical',
+	backgroundColor: 'white'
+}
+
+"#deADobleFoto": {
+	height: 200,
+	width: 200,
+	backgroundColor: "#bada55"
+}
+
+".shareButton": {
+	height: 50,
+	width: "80%",	
+	top: 30,
+	backgroundColor: "#bada55"
+}
+
+"#shareFacebookButton": {
+	title: "Share on Facebook",
+	backgroundImage: "images/share-buttons/share-facebook-button.png",
+}
+
+"#shareTwitterButton": {
+	title: "Share on Twitter",
+	backgroundImage: "images/share-buttons/share-twitter-button.png",
+}
+
+"#shareInstagramButton": {
+	title: "Share on Instagram",
+	backgroundImage: "images/share-buttons/share-instagram-button.png",
+}

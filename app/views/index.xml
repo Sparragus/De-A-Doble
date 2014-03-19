@@ -1,0 +1,7 @@
+<Alloy>
+	<NavigationWindow id="navwin">
+		<Window id="mainwin" class="container">
+			<Button id="takePictureButton">Dale de A Doble!</Button>
+		</Window>
+	</NavigationWindow>
+</Alloy>

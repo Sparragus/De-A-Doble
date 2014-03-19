@@ -1,0 +1,4 @@
+"#cameraWindow": {
+	navBarHidden: true,
+	backgroundImage: "images/camera-background.png"
+}
